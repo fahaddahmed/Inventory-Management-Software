@@ -1,7 +1,7 @@
 # Inventory Management Software - Dynamic Car Management System
 
 ## Overview
-`DynamicAuto DB` is a dynamic linked list implementation in C designed to manage a car dealership's inventory. It allows for the efficient management of car data through a user-friendly command-line interface. This project includes functionalities such as adding, editing, removing, and searching for cars, along with the ability to load car data from files.
+`Inventory Management Software` is a dynamic linked list implementation in C designed to manage a car dealership's inventory. It allows for the efficient management of car data through a user-friendly command-line interface. This project includes functionalities such as adding, editing, removing, and searching for cars, along with the ability to load car data from files.
 
 ## Features
 - **Add New Car**: Add car details to the inventory.
